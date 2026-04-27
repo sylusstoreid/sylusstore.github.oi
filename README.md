@@ -1,1 +1,1 @@
-# sylusstore.github.oi
+# sylusstore.github.io
